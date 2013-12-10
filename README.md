@@ -30,6 +30,7 @@ Simple Map Viewer is a configurable application template that provides a simple 
 - [ArcGIS API for JavaScript Resource Center](http://help.arcgis.com/en/webapi/javascript/arcgis/index.html)
 - [ArcGIS Online] (http://www.arcgis.com)
 - Want to create your own template? View the [Application Boilerplate](https://github.com/Esri/application-boilerplate-js) to get started. 
+- [View the Simple Map Viewer template on ArcGIS Online](http://www.arcgis.com/home/item.html?id=9ae78842d98a4178bd4a794449324349)
 
 #Issues
 Found a bug or want to request a new feature? Please let us know by submitting an issue. 
