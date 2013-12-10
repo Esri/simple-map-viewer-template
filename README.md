@@ -5,7 +5,7 @@ Simple Map Viewer is a configurable application template that provides a simple 
 
 ![Screen Shot](https://dl.dropboxusercontent.com/u/24627279/screenshots/simple_map_viewer_th.jpg)
 
-[View it live] (http://www.arcgis.com/apps/SimpleMapViewer/index.html?webmap=1df512c380994cc5a3dad2e2d428eea3)
+[View it live] (http://www.arcgis.com/apps/SimpleMapViewer/index.html?webmap=6c4e81f90c4b4935945e9b623c5247e0)
 
 #Features
 **Simple Map Viewer** is a configurable application template that provides a simple user experience for exploring any web map. It has been designed to support a variety of form factors - browsers, phones, and tablets.
