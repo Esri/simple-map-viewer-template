@@ -1,4 +1,7 @@
-simple-map-viewer-template
+
+ArcGIS Configurable Apps will be retired in 2025. The ArcGIS Configurable Apps source code repro is deprecated and will not receive further updates. In addition, this repository will be removed in October 2025, along with the October 2025 ArcGIS Online update.
+
+Deprecated: simple-map-viewer-template
 ==========================
 
 Simple Map Viewer is a configurable application template that provides a simple user experience for exploring any web map.  Note: This template has been deprecated and will no longer be updated. An updated version of this template can be found [here] (https://github.com/Esri/SimpleViewer)
